@@ -205,13 +205,14 @@ Execute the programs and publish them.
 
 ## OUTPUT
 
-![Alt text](image.png)
-![Alt text](image-2.png)
-![Alt text](image-3.png)
-![Alt text](image-4.png)
-![Alt text](image-5.png)
-![Alt text](image-6.png)
-![Alt text](image-1.png)
+![image](https://github.com/Muralikrishnan13/NearMe/assets/130058615/933f958d-b38c-4347-83b4-56c21d12c145)
+![image](https://github.com/Muralikrishnan13/NearMe/assets/130058615/bd2d64b0-f6c1-4d84-b537-9e57351a71e3)
+![image](https://github.com/Muralikrishnan13/NearMe/assets/130058615/c06d512a-407c-40c6-b822-7dd330806821)
+![image](https://github.com/Muralikrishnan13/NearMe/assets/130058615/91c34e7f-7d25-4985-b93f-2a5a274f3548)
+![image](https://github.com/Muralikrishnan13/NearMe/assets/130058615/f2639974-c551-47b2-9a34-8f206c4bc36d)
+![image](https://github.com/Muralikrishnan13/NearMe/assets/130058615/0cb90618-945f-4970-bd73-d30d482278ac)
+
+![image](https://github.com/Muralikrishnan13/NearMe/assets/130058615/89f30b88-7314-4851-a19a-c873e437aaf2)
 
 
 ## RESULT
